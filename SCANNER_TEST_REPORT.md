@@ -251,7 +251,11 @@ behind a firewall. Test case 6 (100 ports) shows this warning.
 
 **Result:** PASS
 
-![Test 6 - performance](screenshots/scan6_performance.png)
+![Test 6 - performance, part 1 (1-100 and 1-500)](screenshots/scan6_performance_part1.png)
+
+![Test 6 - performance, part 2 (1-1000 and 1-2000)](screenshots/scan6_performance_part2.png)
+
+![Test 6 - performance, part 3 (no delay, and 10 workers)](screenshots/scan6_performance_part3.png)
 
 ---
 
